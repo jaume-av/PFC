@@ -13,3 +13,5 @@ has_toc: true
 {: .text-center }
 
 ![alt text](assets/imatges/pfc.png)
+
+**Autor**: [Mari Carmen Gómez & Jaume Aragó]()
