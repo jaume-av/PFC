@@ -7,9 +7,7 @@ has_toc: true
 ---
 
 
-# PFC
 
----
 {: .text-center }
 
 ![alt text](assets/imatges/pfc.png)
