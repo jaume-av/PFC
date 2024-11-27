@@ -12,4 +12,12 @@ has_toc: true
 
 ![alt text](assets/imatges/pfc.png)
 
+---
+
+{: .text-center }
+
+![alt text](assets/imatges/LogoIESInfor.png)
+
+---
+
 **Autor**: [Mari Carmen Gómez & Jaume Aragó]()
