@@ -3,7 +3,7 @@ body {
   font-family: 'Calibri', sans-serif !important; /* Calibri com a font principal */
   font-size: 14px !important; /* Tamany de lletra per al text principal */
   color: #5e3a70 !important; /* Violeta intens suau per al text */
-  background-color: #f4edf9 !important; /* Fons violeta clar molt suau */
+  background-color: #faf8fc !important; /* Fons violeta claríssim molt suau */
   line-height: 1.8 !important; /* Alçada de línia per millor llegibilitat */
   margin: 0 !important; /* Elimina marges extra */
 }
@@ -12,7 +12,7 @@ body {
 h1 {
   font-family: 'Calibri', sans-serif !important;
   color: #6c4780 !important; /* Violeta mitjà per al títol */
-  background-color: #e4d6f1 !important; /* Violeta clar per al fons */
+  background-color: #f0e8f8 !important; /* Violeta claríssim per al fons */
   padding: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold !important;
@@ -25,7 +25,7 @@ h1 {
 h2 {
   font-family: 'Calibri', sans-serif !important;
   color: #6c4780 !important; /* Violeta mitjà per als títols */
-  background-color: #e4d6f1 !important; /* Violeta clar per al fons dels títols */
+  background-color: #f0e8f8 !important; /* Violeta claríssim per al fons dels títols */
   padding: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold !important;
@@ -46,7 +46,7 @@ h3, h4, h5, h6 {
 }
 
 h1 code, h2 code {
-  background-color: #d8c9e8 !important; /* Violeta pastel per al fons */
+  background-color: #f3e9f6 !important; /* Violeta pastel claríssim per al fons */
   color: inherit !important;
   font-family: inherit !important;
   font-size: inherit !important;
@@ -63,12 +63,12 @@ h1 code, h2 code {
   margin-left: 0 !important;
   padding: 20px !important;
   max-width: 100% !important;
-  background-color: #f4edf9 !important; /* Violeta clar molt suau de fons */
+  background-color: #faf8fc !important; /* Fons violeta claríssim de fons */
 }
 
 /* Estil per a la barra lateral (TOC) */
 .sidebar {
-  background-color: #e4d6f1 !important; /* Fons violeta clar per al menú lateral */
+  background-color: #f0e8f8 !important; /* Fons violeta claríssim per al menú lateral */
   padding: 10px !important;
   width: 170px !important;
 }
@@ -94,7 +94,7 @@ pre, code {
   font-family: 'Consolas', monospace !important;
   font-size: 12px !important;
   font-weight: bold !important;
-  background-color: #ede4f5 !important; /* Violeta molt clar per al fons */
+  background-color: #f8f4fc !important; /* Violeta molt clar per al fons */
   color: #5e3a70 !important; /* Violeta intens per al text */
   padding: 15px !important;
   line-height: 1.6 !important;
@@ -108,7 +108,7 @@ pre, code {
 
 /* Ajustos visuals per a les etiquetes de codi dins de blocs de text */
 code {
-  background-color: #ede4f5 !important; /* Violeta molt clar */
+  background-color: #f8f4fc !important; /* Violeta molt clar */
   padding: 3px 5px !important;
   border-radius: 3px !important;
   font-size: 13px !important;
