@@ -1,21 +1,18 @@
-Aquí tienes el CSS actualizado con una escala de beiges, naranjas y blanco, manteniendo la relación de aspectos y los comentarios originales intactos:
-
-```css
 /* Estils generals per al cos del document */
 body {
   font-family: 'Calibri', sans-serif !important; /* Calibri com a font principal */
   font-size: 14px !important; /* Tamany de lletra per al text principal */
-  color: #a65300 !important; /* Taronja fosc suau per al text */
-  background-color: #fdf7f2 !important; /* Fons beig molt suau */
+  color: #5e3a70 !important; /* Violeta intens suau per al text */
+  background-color: #f4edf9 !important; /* Fons violeta clar molt suau */
   line-height: 1.8 !important; /* Alçada de línia per millor llegibilitat */
   margin: 0 !important; /* Elimina marges extra */
 }
 
-/* Estils per al títol nivell 1 amb fons taronja */
+/* Estils per al títol nivell 1 amb fons violeta */
 h1 {
   font-family: 'Calibri', sans-serif !important;
-  color: #b56b00 !important; /* Taronja suau per al títol */
-  background-color: #f8e8d8 !important; /* Beig clar per al fons */
+  color: #6c4780 !important; /* Violeta mitjà per al títol */
+  background-color: #e4d6f1 !important; /* Violeta clar per al fons */
   padding: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold !important;
@@ -24,11 +21,11 @@ h1 {
   text-align: center !important; /* Centra el text */
 }
 
-/* Estils per al títol nivell 2 amb fons taronja */
+/* Estils per al títol nivell 2 amb fons violeta */
 h2 {
   font-family: 'Calibri', sans-serif !important;
-  color: #b56b00 !important; /* Taronja suau per als títols */
-  background-color: #f8e8d8 !important; /* Beig clar per al fons dels títols */
+  color: #6c4780 !important; /* Violeta mitjà per als títols */
+  background-color: #e4d6f1 !important; /* Violeta clar per al fons dels títols */
   padding: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold !important;
@@ -39,7 +36,7 @@ h2 {
 /* Estils per als títols nivells 3 a 6 sense fons ni ombra */
 h3, h4, h5, h6 {
   font-family: 'Calibri', sans-serif !important;
-  color: #b56b00 !important; /* Taronja suau per als títols */
+  color: #6c4780 !important; /* Violeta mitjà per als títols */
   padding: 10px !important;
   margin-bottom: 20px !important;
   font-weight: bold !important;
@@ -49,7 +46,7 @@ h3, h4, h5, h6 {
 }
 
 h1 code, h2 code {
-  background-color: #f3e3d3 !important; /* Beig clar per al fons */
+  background-color: #d8c9e8 !important; /* Violeta pastel per al fons */
   color: inherit !important;
   font-family: inherit !important;
   font-size: inherit !important;
@@ -66,12 +63,12 @@ h1 code, h2 code {
   margin-left: 0 !important;
   padding: 20px !important;
   max-width: 100% !important;
-  background-color: #fdf7f2 !important; /* Beig molt suau de fons */
+  background-color: #f4edf9 !important; /* Violeta clar molt suau de fons */
 }
 
 /* Estil per a la barra lateral (TOC) */
 .sidebar {
-  background-color: #f8e8d8 !important; /* Fons beig clar per al menú lateral */
+  background-color: #e4d6f1 !important; /* Fons violeta clar per al menú lateral */
   padding: 10px !important;
   width: 170px !important;
 }
@@ -79,17 +76,17 @@ h1 code, h2 code {
 /* Estil per als enllaços de la barra lateral */
 .nav-list a {
   font-family: 'Calibri', sans-serif !important;
-  color: #cc8400 !important; /* Taronja mitjà per als enllaços de la barra lateral */
+  color: #8057a2 !important; /* Violeta suau per als enllaços de la barra lateral */
 }
 
 .nav-list a:hover {
-  color: #e69500 !important; /* Taronja intens en hover */
+  color: #9162b5 !important; /* Violeta més intens en hover */
 }
 
 /* Estil per als títols de la barra lateral */
 .navbar .navbar-brand {
   font-size: 16px !important;
-  color: #a65300 !important; /* Taronja fosc per al text */
+  color: #5e3a70 !important; /* Violeta intens per al text */
 }
 
 /* Estil per a blocs de codi o text preformat */
@@ -97,8 +94,8 @@ pre, code {
   font-family: 'Consolas', monospace !important;
   font-size: 12px !important;
   font-weight: bold !important;
-  background-color: #f9f1e6 !important; /* Beig molt clar per al fons */
-  color: #a65300 !important; /* Taronja fosc per al text */
+  background-color: #ede4f5 !important; /* Violeta molt clar per al fons */
+  color: #5e3a70 !important; /* Violeta intens per al text */
   padding: 15px !important;
   line-height: 1.6 !important;
   border: none !important;
@@ -111,7 +108,7 @@ pre, code {
 
 /* Ajustos visuals per a les etiquetes de codi dins de blocs de text */
 code {
-  background-color: #f9f1e6 !important; /* Beig molt clar */
+  background-color: #ede4f5 !important; /* Violeta molt clar */
   padding: 3px 5px !important;
   border-radius: 3px !important;
   font-size: 13px !important;
@@ -126,6 +123,3 @@ code {
     width: 170px !important;
   }
 }
-```
-
-Si vols ajustar algun color o tens alguna altra preferència, avisa'm i ho faré!
