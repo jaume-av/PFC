@@ -31,6 +31,7 @@ h2 {
   font-weight: bold !important;
   border-radius: 5px !important; /* Cants arrodonits als títols */
   box-shadow: none !important; /* Elimina les ombres */
+  border-bottom: 3px solid #6c4780 !important; /* Vora inferior per als h2 */
 }
 
 /* Estils per als títols nivells 3 a 6 sense fons ni ombra */
@@ -43,6 +44,10 @@ h3, h4, h5, h6 {
   border-radius: 0px !important; /* Sense cants arrodonits */
   background-color: transparent !important; /* Elimina el fons */
   box-shadow: none !important; /* Elimina les ombres */
+}
+
+h3 {
+  border-bottom: 3px solid #6c4780 !important; /* Vora inferior per als h3 */
 }
 
 h1 code, h2 code {
