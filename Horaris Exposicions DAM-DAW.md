@@ -31,7 +31,7 @@ has_children: true
 | IKER PEREZ MATA            | 8:30 - 9:15   |
 | ALVARO RIVERA VIVERO       | 9:30 - 10:15  |
 | MARTIN SANCHEZ PEDRERO     | 11:15 - 12:00 |
-| RAFAEL VILLAESCUSA CLIMENT | 12:15 - 13:00 |
+
 
 ---
 
@@ -51,9 +51,7 @@ has_children: true
 | **Alumne**            | **Hora**      |
 | --------------------- | ------------- |
 | MARIO BAN             | 8:30 - 9:15   |
-| PAU MASIÀ VALLS       | 9:30 - 10:15  |
-| ADRIAN PEIRÓ SERRA    | 11:15 - 12:00 |
-| JORGE SANCHIS MANZANA | 12:15 - 13:00 |
+| ADRIAN PEIRÓ SERRA    | 9:30 - 10:15  |
 
 ---
 
